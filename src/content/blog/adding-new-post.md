@@ -1,6 +1,6 @@
 ---
 author: Sat Naing
-title: Adding new posts in AstroPaper theme
+title: Adding new posts in AstroPaper theme xxx
 slug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: true
